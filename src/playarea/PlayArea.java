@@ -20,7 +20,7 @@ public class PlayArea {
     triangle.length=20;
     triangle.base= 15;
     triangle.hypotenus=10;
-    System.out.println(triangle.height);
+//    System.out.println(triangle.height);
     System.out.println(triangle.length);
  triangle.CalPerimeter();
 triangle.CalArea(15.0, 15.0);
